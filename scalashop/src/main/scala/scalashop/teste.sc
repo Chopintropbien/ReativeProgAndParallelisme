@@ -1,0 +1,9 @@
+package scalashop
+
+object teste {
+  
+  
+  
+  
+  
+}

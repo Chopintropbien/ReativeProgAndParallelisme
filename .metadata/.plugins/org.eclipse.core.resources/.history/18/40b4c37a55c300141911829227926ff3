@@ -1,0 +1,10 @@
+package scalashop
+
+object teste {
+  
+  
+  
+  
+  100.0 / ( (99.99 / 30) + 0.01)
+  
+}

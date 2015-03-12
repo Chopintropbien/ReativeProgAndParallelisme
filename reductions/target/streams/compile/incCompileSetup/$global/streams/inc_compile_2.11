@@ -1,0 +1,518 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -optimise
+3 -> -Yinline-warnings
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package$.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$1.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$2.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$3.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$1.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$2.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$1.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$2.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class
+binary dependencies:
+11 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> /Users/laurianemollier/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> common.package
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> common.package$
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler$$anon$1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> common.package$TaskScheduler
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$3
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$4
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$5
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf$
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node$
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Tree
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$3
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$4
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$combinedThreshold$1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$moneyThreshold$1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$totalCoinsThreshold$1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$3
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$4
+used names:
+306 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> $anon
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> <byname>
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> <init>
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> A
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> AnyRef
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> B
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> DefaultTaskScheduler
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> DynamicVariable
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> ForkJoinPool
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> ForkJoinTask
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> RecursiveTask
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> T
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> TaskScheduler
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> Tuple2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> _root_
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> body
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> common
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> concurrent
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> execute
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> forkJoinPool
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> java
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> join
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> left
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> package
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> parallel
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> right
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> scala
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> schedule
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> scheduler
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> t
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> task
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> taskA
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> taskB
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> util
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> value
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> !=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> %
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> &&
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> *
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> +
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> -
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> ->
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> /
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> <
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> <init>
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> ==
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> >
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction3
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> AnyRef
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Array
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> ClassTag
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Default
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Float
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> IndexedSeq
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Int
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Key
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Leaf
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSight
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Node
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> None
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Predef
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Product
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> ScalaRunTime
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Serializable
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Statics
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> String
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> StringContext
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Tree
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Unit
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> Warmer
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> _1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> _2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> _hashCode
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> _toString
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> a
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> angle
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> annotation
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> apply
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> asInstanceOf
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> b
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> benchRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> canBuildFrom
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> common
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> config
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> dist
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweep
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweepSequential
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> end
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> eq
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> exec
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> finalizeHash
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> floatHash
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> from
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> i
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> immutable
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> input
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> intWrapper
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> isInstanceOf
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> left
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> length
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> lineOfSight
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> lineOfSightAcc
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> map
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> materializeClassTag
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> max
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> maxPrevious
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> maxWarmupRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> measure
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> mid
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> minWarmupRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> mix
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> mx
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> ne
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> org
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> output
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> package
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> parLineOfSight
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> parallel
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> partime
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> println
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> right
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> runtime
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> s
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> scala
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> scalameter
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> seqtime
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> standardConfig
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> startingAngle
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> tailrec
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> threshold
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> toArray
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> toString
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> tree
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> typedProductIterator
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> unchecked
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> until
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> update
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweep
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweepNew
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweepSeqAcc
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweepSequential
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> verbose
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> withWarmer
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> ||
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> *
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> +
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> -
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ->
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <init>
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ==
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> AnyRef
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Array
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Boolean
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Default
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Function2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Int
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Key
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> List
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChange
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Predef
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> String
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> StringContext
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Threshold
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Unit
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Warmer
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _root_
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> allCoins
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> amount
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> apply
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> benchRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> coins
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> combinedThreshold
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> common
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> config
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> countChange
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> exec
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> fjtime
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> head
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> immutable
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> isEmpty
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> left
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> length
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> maxWarmupRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measure
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measureParallelCountChange
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> minWarmupRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> money
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> moneyThreshold
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ne
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> org
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> package
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parCountChange
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult_=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parallel
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> println
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> right
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> s
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scala
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scalameter
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult_=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqtime
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> standardConfig
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> startingMoney
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> tail
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> threshold
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoins
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoinsThreshold
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> unchecked
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> verbose
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> withWarmer
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ||
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> &&
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> +
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> -
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ->
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <init>
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ==
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> >
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> AnyRef
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Array
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Boolean
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Char
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Default
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Int
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Key
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> List
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Math
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancing
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Predef
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> String
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> StringContext
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Tuple2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Unit
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Warmer
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> a
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> abs
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> acc
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> acc1
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> acc2
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> annotation
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> apply
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> b
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> balance
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> balanceList
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> benchRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> c
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> charArrayOps
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> chars
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> combine
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> common
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> config
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> exec
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> fjtime
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> from
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> head
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> i
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> isEmpty
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> java
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> lang
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> length
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> maxWarmupRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> measure
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> mid
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> minWarmupRuns
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ne
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> org
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> package
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parBalance
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult_=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parToInt
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parallel
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> println
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> s
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scala
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scalameter
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqBalance
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqBalanceAcc
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult_=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqtime
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> standardConfig
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> tail
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> threshold
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> toList
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> traverse
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> unchecked
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> until
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> verbose
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> withWarmer
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ||
+product stamps:
+34 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package$.class -> lastModified(1425741590000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class -> lastModified(1425741590000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class -> lastModified(1425741590000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class -> lastModified(1425741590000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/common/package.class -> lastModified(1425741590000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$1.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$2.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$3.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/LineOfSight.class -> lastModified(1425751212000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$1.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$2.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$1.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$2.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class -> lastModified(1426181770000)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class -> lastModified(1426181770000)
+source stamps:
+4 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> hash(b15e25d2e8e2fee817c14ef1aafffdcb0ab4f905)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> hash(2fd991cf25755f1a006dae19cb981e63620f4649)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> hash(9bf4a114f0a8b1a3ad0f591550918b77980292f7)
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> hash(6104c81b4056893223c3664ba7b5bfc6f27f529e)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1406304240000)
+/Users/laurianemollier/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar -> lastModified(1405518657000)
+/Users/laurianemollier/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590731000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/laurianemollier/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar -> org.scalameter.package$
+/Users/laurianemollier/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.Tuple2$
+internal apis:
+4 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAA5FzVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOuOulp0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADOtHZZZ0AAR3YWl0c3EAfgAMRRH71nQABHRhc2tzcQB+AAxXWlWZdAANJGFzSW5zdGFuY2VPZnNxAH4ADO2zU1l0ABREZWZhdWx0VGFza1NjaGVkdWxlcnNxAH4ADP6VKW10AAZlcXVhbHNzcQB+AAxOPK7rdAAMYXNJbnN0YW5jZU9mc3EAfgAMR3fdZXQADHN5bmNocm9uaXplZHNxAH4ADASe78N0AA0kaXNJbnN0YW5jZU9mc3EAfgAM1gofX3QADGZvcmtKb2luUG9vbHNxAH4ADDVHpFR0AAlub3RpZnlBbGxzcQB+AAxy8qMidAAMaXNJbnN0YW5jZU9mc3EAfgAMTzralnQABjxpbml0PnNxAH4ADEIjdRB0AAlzY2hlZHVsZXJzcQB+AAx/Gy7OdAACPT1zcQB+AAw1EAMXdAANVGFza1NjaGVkdWxlcnNxAH4ADBy51Ep0AAVjbG9uZXNxAH4ADMH/LC90AAhzY2hlZHVsZXNxAH4ADMkZjUp0AAh0b1N0cmluZ3NxAH4ADPulSr90AAIhPXNxAH4ADIlgsA10AAhnZXRDbGFzc3NxAH4ADNkzMG10AAJuZXNxAH4ADGJTK1N0AAJlcXNxAH4ADGZeEBt0AAhwYXJhbGxlbHNxAH4ADGDsJSJ0AAIjI3NxAH4ADMhysS90AAhmaW5hbGl6ZXNxAH4ADBNirm10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGh4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AcHNxAH4AZwF1cQB+AEoAAAAAcHNxAH4AZwF1cQB+AEoAAAAAcHNxAH4AZwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFL9NH/LXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGMvVXNlcnMvbGF1cmlhbmVtb2xsaWVyL0RvY3VtZW50cy9SZWFjdGl2ZSBhbmQgUGFyYWxsZWxpc20gUHJvZy9yZWR1Y3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSxXiXS6OL+6BfBTvGq//3LCrT5BQ==
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCuoJ4OAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGmptiZ0AAZub3RpZnlzcQB+AAxwoE7udAAHdW5hcHBseXNxAH4ADAZwAcl0AAdjdXJyaWVkc3EAfgAM+gKVgXQAB3Vwc3dlZXBzcQB+AAx5SVQhdAAEd2FpdHNxAH4ADCdNzt50AA5jb3B5JGRlZmF1bHQkMnNxAH4ADGyJDuZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMWsB1SXQADHByb2R1Y3RBcml0eXNxAH4ADOaQA1d0AAZlcXVhbHNzcQB+AAyRbofMdAAMYXNJbnN0YW5jZU9mc3EAfgAMlfsPTHQADHN5bmNocm9uaXplZHNxAH4ADGa4jbV0AARsZWZ0c3EAfgAMmUwDTXQABFRyZWVzcQB+AAzqtlhZdAANJGlzSW5zdGFuY2VPZnNxAH4ADMZDP/B0AAROb2Rlc3EAfgAMKMf3LnQABnR1cGxlZHNxAH4ADM/krnt0ABF1cHN3ZWVwU2VxdWVudGlhbHNxAH4ADFE7t490AAtsaW5lT2ZTaWdodHNxAH4ADAAhY5V0AAhjYW5FcXVhbHNxAH4ADC/euIV0AARtYWluc3EAfgAMyNnj1nQABExlYWZzcQB+AAwHtBdmdAANcHJvZHVjdFByZWZpeHNxAH4ADII2koZ0AAV1bnRpbHNxAH4ADAweY4p0AAlub3RpZnlBbGxzcQB+AAx/d279dAALcmVhZFJlc29sdmVzcQB+AAwkkNAKdAAMaXNJbnN0YW5jZU9mc3EAfgAMHmr463QAE2Rvd25zd2VlcFNlcXVlbnRpYWxzcQB+AAyCql4IdAAJZG93bnN3ZWVwc3EAfgAM/FTjVHQABjxpbml0PnNxAH4ADN3Jcp90AANtYXhzcQB+AAxlF8o7dAAOcGFyTGluZU9mU2lnaHRzcQB+AAyIzTbCdAAFYXBwbHlzcQB+AAxkguv9dAACPT1zcQB+AAz81DkOdAAFY2xvbmVzcQB+AAzGrZ8BdAAEZnJvbXNxAH4ADCKlVyF0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADAhqrdp0AARjb3B5c3EAfgAM/AKhZXQACHRvU3RyaW5nc3EAfgAMKIBwHXQADnN0YW5kYXJkQ29uZmlnc3EAfgAMpM2XS3QAAiE9c3EAfgAMIcEeLXQAC0xpbmVPZlNpZ2h0c3EAfgAMWzA1RnQACGdldENsYXNzc3EAfgAMbiNoW3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMtnKeGnQAAm5lc3EAfgAMdAssxXQAAmVxc3EAfgAM2GC2YnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHzYjux0AAVyaWdodHNxAH4ADFAyORd0AAIjI3NxAH4ADNMjOAp0AAhmaW5hbGl6ZXNxAH4ADE2fpkZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADMu5NhN0AAhoYXNoQ29kZXNxAH4ADBxt4hZ0AAttYXhQcmV2aW91c3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AH94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABZyZWR1Y3Rpb25zLkxpbmVPZlNpZ2h0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCYAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB/TAAJaW5oZXJpdGVkcQB+AH9MAAdwYXJlbnRzcQB+AH94cQB+AJ9zcQB+AJgBdXEAfgB6AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCAcQB+AIl1cQB+AIoAAAAAc3EAfgCMAHEAfgA1dXEAfgCPAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ap3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AknQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ArlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AnnNxAH4ArXQABUFycmF5cQB+ALN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ArXQABlN0cmluZ3NxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALl0AARqYXZhc3EAfgC5dAAEbGFuZ3EAfgC+cHNxAH4AmAF1cQB+AHoAAAAAcHNxAH4AmAF1cQB+ANIAAAACc3EAfgCtdAAGT2JqZWN0cQB+ANZzcQB+AK10AANBbnlxAH4As3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKcmVkdWN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS/Vk3F51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABjL1VzZXJzL2xhdXJpYW5lbW9sbGllci9Eb2N1bWVudHMvUmVhY3RpdmUgYW5kIFBhcmFsbGVsaXNtIFByb2cvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUL9mRzyV1XxoAba4Zy5geY2IPRkk=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBb9OsCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMWj7zF0AAZub3RpZnlzcQB+AAwMgrVgdAAJVGhyZXNob2xkc3EAfgAMzxm003QABHdhaXRzcQB+AAxk/UNvdAANJGFzSW5zdGFuY2VPZnNxAH4ADAKVhwJ0AAZlcXVhbHNzcQB+AAysPpKpdAARY29tYmluZWRUaHJlc2hvbGRzcQB+AAxjtQyXdAAObW9uZXlUaHJlc2hvbGRzcQB+AAyrxRhLdAAMYXNJbnN0YW5jZU9mc3EAfgAMu3tZE3QADHN5bmNocm9uaXplZHNxAH4ADCu3DaZ0AAlwYXJSZXN1bHRzcQB+AAwNe58MdAANJGlzSW5zdGFuY2VPZnNxAH4ADILfVJt0ABNQYXJhbGxlbENvdW50Q2hhbmdlc3EAfgAMr2pCc3QABG1haW5zcQB+AAxahrLydAAJbm90aWZ5QWxsc3EAfgAMF5e/R3QADGlzSW5zdGFuY2VPZnNxAH4ADOxNAVR0AAI9PXNxAH4ADBx5Nyl0AAVjbG9uZXNxAH4ADN+2xvd0AAh0b1N0cmluZ3NxAH4ADMU0wXV0AA5zdGFuZGFyZENvbmZpZ3NxAH4ADJhffB10AAIhPXNxAH4ADMyly/F0AAhnZXRDbGFzc3NxAH4ADOvvVV90AAlzZXFSZXN1bHRzcQB+AAwkF867dAALY291bnRDaGFuZ2VzcQB+AAzORHCvdAACbmVzcQB+AAzabaLOdAATdG90YWxDb2luc1RocmVzaG9sZHNxAH4ADFqS+nZ0AA5wYXJDb3VudENoYW5nZXNxAH4ADJ+17Ed0AAJlcXNxAH4ADHd+AhN0AAIjI3NxAH4ADFhNBRV0AAhmaW5hbGl6ZXNxAH4ADDL4z8V0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AB5yZWR1Y3Rpb25zLlBhcmFsbGVsQ291bnRDaGFuZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4AcnNxAH4AawF1cQB+AE4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFRxAH4AXXVxAH4AXgAAAABzcQB+AGAAcQB+ACd1cQB+AGMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB6eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBmdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCBWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBxc3EAfgCAdAAFQXJyYXlxAH4AhnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCAdAAGU3RyaW5nc3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHQABGphdmFzcQB+AIx0AARsYW5ncQB+AJFwc3EAfgBrAXVxAH4ATgAAAABwc3EAfgBrAXVxAH4ApQAAAAJzcQB+AIB0AAZPYmplY3RxAH4AqXNxAH4AgHQAA0FueXEAfgCGcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMDw6h7nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGMvVXNlcnMvbGF1cmlhbmVtb2xsaWVyL0RvY3VtZW50cy9SZWFjdGl2ZSBhbmQgUGFyYWxsZWxpc20gUHJvZy9yZWR1Y3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSb9KEU8Kixo60PWRVQkYt3mAKS9w==
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCUhT1OAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEHOx8h0AAZub3RpZnlzcQB+AAz9FiradAAEd2FpdHNxAH4ADKwOINh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMox5b/XQABmVxdWFsc3NxAH4ADFIwQa90AAxhc0luc3RhbmNlT2ZzcQB+AAwnVjBMdAAMc3luY2hyb25pemVkc3EAfgAMckZENnQACXBhclJlc3VsdHNxAH4ADM5q4nB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMcp33wXQACnBhckJhbGFuY2VzcQB+AAzv7mmrdAAHYmFsYW5jZXNxAH4ADPxcG8V0AARtYWluc3EAfgAM8aVMUHQACW5vdGlmeUFsbHNxAH4ADHwdeCJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxtKoUNdAAIcGFyVG9JbnRzcQB+AAzYqAUAdAACPT1zcQB+AAwFf4BldAAKc2VxQmFsYW5jZXNxAH4ADI2nYe10AAVjbG9uZXNxAH4ADDKlOtZ0AAh0b1N0cmluZ3NxAH4ADCXJGPR0AA5zdGFuZGFyZENvbmZpZ3NxAH4ADK05nGF0AAIhPXNxAH4ADLmi+qB0AAhnZXRDbGFzc3NxAH4ADBn2GRh0AAlzZXFSZXN1bHRzcQB+AAwl0E5ldAACbmVzcQB+AAyD97nLdAACZXFzcQB+AAzjihIvdAACIyNzcQB+AAxkjL1JdAAIZmluYWxpemVzcQB+AAx1OFtEdAAIaGFzaENvZGVzcQB+AAwucOwMdAAcUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACdyZWR1Y3Rpb25zLlBhcmFsbGVsUGFyZW50aGVzZXNCYWxhbmNpbmd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AbnNxAH4AZwF1cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+ACN1cQB+AF8AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB2eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBidAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB9WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBtc3EAfgB8dAAFQXJyYXlxAH4AgnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB8dAAGU3RyaW5nc3EAfgCAc3EAfgCDdXEAfgCGAAAAA3NxAH4AiHQABGphdmFzcQB+AIh0AARsYW5ncQB+AI1wc3EAfgBnAXVxAH4ASgAAAABwc3EAfgBnAXVxAH4AoQAAAAJzcQB+AHx0AAZPYmplY3RxAH4ApXNxAH4AfHQAA0FueXEAfgCCcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMDw6h7nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGMvVXNlcnMvbGF1cmlhbmVtb2xsaWVyL0RvY3VtZW50cy9SZWFjdGl2ZSBhbmQgUGFyYWxsZWxpc20gUHJvZy9yZWR1Y3Rpb25zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRhBMgbQFaJMiPDZkuntb/G8n9Sng==
+external apis:
+0 items
+source infos:
+4 items
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+AAAAAAAAAAA=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+AAAAAAAAAAA=
+/Users/laurianemollier/Documents/Reactive and Parallelism Prog/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS/TR/y11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9sYXVyaWFuZW1vbGxpZXIvRG9jdW1lbnRzL1JlYWN0aXZlIGFuZCBQYXJhbGxlbGlzbSBQcm9nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS/VHXoh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9sYXVyaWFuZW1vbGxpZXIvRG9jdW1lbnRzL1JlYWN0aXZlIGFuZCBQYXJhbGxlbGlzbSBQcm9nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS/Vk3F51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9sYXVyaWFuZW1vbGxpZXIvRG9jdW1lbnRzL1JlYWN0aXZlIGFuZCBQYXJhbGxlbGlzbSBQcm9nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS/VsAKN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9sYXVyaWFuZW1vbGxpZXIvRG9jdW1lbnRzL1JlYWN0aXZlIGFuZCBQYXJhbGxlbGlzbSBQcm9nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS/V5zCp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9sYXVyaWFuZW1vbGxpZXIvRG9jdW1lbnRzL1JlYWN0aXZlIGFuZCBQYXJhbGxlbGlzbSBQcm9nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTA8Ooe51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9sYXVyaWFuZW1vbGxpZXIvRG9jdW1lbnRzL1JlYWN0aXZlIGFuZCBQYXJhbGxlbGlzbSBQcm9nL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

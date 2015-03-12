@@ -1,0 +1,10 @@
+package scalashop
+
+object teste {
+  
+  
+  
+  
+  100.0 / ( (99.99 / 300) + 0.01)                 //> res0: Double = 291.29041654529567
+  
+}

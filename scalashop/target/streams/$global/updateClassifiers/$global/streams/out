@@ -1,0 +1,1116 @@
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT[0m
+[0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
+[0m[[0mdebug[0m] [0m	validate = true[0m
+[0m[[0mdebug[0m] [0m	refresh = false[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.5 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fae23d5[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.5[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.5 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	[2.11.5] org.scala-lang#scala-library;2.11.5[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.storm-enroute#scalameter-core_2.11;0.6 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@24ba1205[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.storm-enroute#scalameter-core_2.11;0.6[0m
+[0m[[0mdebug[0m] [0m	found com.storm-enroute#scalameter-core_2.11;0.6 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.apache.commons#commons-math3;3.2 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27b36d38[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.2[0m
+[0m[[0mdebug[0m] [0m	found org.apache.commons#commons-math3;3.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-xml_2.11;1.0.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c22d853[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-xml_2.11;1.0.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3513b625[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.github.scala-blitz#scala-blitz_2.11;1.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79c68c14[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.github.scala-blitz#scala-blitz_2.11;1.1[0m
+[0m[[0mdebug[0m] [0m	found com.github.scala-blitz#scala-blitz_2.11;1.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.11.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5463173e[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.11.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	[2.11.1] org.scala-lang#scala-reflect;2.11.1[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scalatest#scalatest_2.11;2.2.4 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7823eb45[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scalatest#scalatest_2.11;2.2.4[0m
+[0m[[0mdebug[0m] [0m	found org.scalatest#scalatest_2.11;2.2.4 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.11.2 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6b30f72c[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.2[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.11.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	[2.11.2] org.scala-lang#scala-reflect;2.11.2[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-xml_2.11;1.0.2 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e667db2[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.2[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-xml_2.11;1.0.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving junit#junit;4.10 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c3ffda6[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: junit#junit;4.10[0m
+[0m[[0mdebug[0m] [0m	found junit#junit;4.10 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.hamcrest#hamcrest-core;1.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@666b8451[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.1[0m
+[0m[[0mdebug[0m] [0m	found org.hamcrest#hamcrest-core;1.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.storm-enroute#scalameter_2.11;0.6 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6324c38d[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.storm-enroute#scalameter_2.11;0.6[0m
+[0m[[0mdebug[0m] [0m	found com.storm-enroute#scalameter_2.11;0.6 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.github.wookietreiber#scala-chart_2.11;0.4.2 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72b620b0[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.github.wookietreiber#scala-chart_2.11;0.4.2[0m
+[0m[[0mdebug[0m] [0m	found com.github.wookietreiber#scala-chart_2.11;0.4.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	[0.4.2] com.github.wookietreiber#scala-chart_2.11;0.4.2[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.jfree#jfreechart;1.0.17 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6aa72c23[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.jfree#jfreechart;1.0.17[0m
+[0m[[0mdebug[0m] [0m	found org.jfree#jfreechart;1.0.17 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.jfree#jcommon;1.0.21 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@a86ec90[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.jfree#jcommon;1.0.21[0m
+[0m[[0mdebug[0m] [0m	found org.jfree#jcommon;1.0.21 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving xml-apis#xml-apis;1.3.04 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a9500a8[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: xml-apis#xml-apis;1.3.04[0m
+[0m[[0mdebug[0m] [0m	found xml-apis#xml-apis;1.3.04 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-swing_2.11;1.0.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52db048b[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang.modules#scala-swing_2.11;1.0.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-swing_2.11;1.0.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-tools.testing#test-interface;0.5 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1f6146d1[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-tools.testing#test-interface;0.5[0m
+[0m[[0mdebug[0m] [0m	found org.scala-tools.testing#test-interface;0.5 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [compile-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [runtime-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [test-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter-core_2.11;0.6 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.apache.commons#commons-math3;3.2 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.scala-blitz#scala-blitz_2.11;1.1 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scalatest#scalatest_2.11;2.2.4 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.2 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.2 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->junit#junit;4.10 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.hamcrest#hamcrest-core;1.1 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.storm-enroute#scalameter_2.11;0.6 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->com.github.wookietreiber#scala-chart_2.11;0.4.2 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jfreechart;1.0.17 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.jfree#jcommon;1.0.21 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->xml-apis#xml-apis;1.3.04 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-swing_2.11;1.0.1 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-tools.testing#test-interface;0.5 [test-internal->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [plugin][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [sources][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [docs][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [pom][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'scala-tool'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT [scala-tool][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [scala-tool->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-library;2.11.5 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.11.5 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-compiler;2.11.5 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.11.5 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.5[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.11.5 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.11.5 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.11.5 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.11.5 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.5 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.11.5 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.11.5 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.5[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.11.5 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m	[2.11.5] org.scala-lang#scala-reflect;2.11.5[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.5 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.5 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang#scala-reflect;2.11.5 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-xml_2.11;1.0.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.11;1.0.3 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.3[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-xml_2.11;1.0.3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->jline#jline;2.12 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving jline#jline;2.12 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: jline#jline;2.12 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: jline#jline;2.12[0m
+[0m[[0mdebug[0m] [0m	found jline#jline;2.12 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->jline#jline;2.12 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->jline#jline;2.12 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT->jline#jline;2.12 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in cache[0m
+[0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-library/2.11.5/srcs/scala-library-sources.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.11.5!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-library/2.11.5/docs/scala-library-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.11.5!scala-library.jar(src) (736ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.5/scala-library-2.11.5-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.11.5!scala-library.jar(doc) (4731ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.storm-enroute#scalameter-core_2.11;0.6!scalameter-core_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/com.storm-enroute/scalameter-core_2.11/0.6/srcs/scalameter-core_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/com.storm-enroute/scalameter-core_2.11/0.6/docs/scalameter-core_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.storm-enroute#scalameter-core_2.11;0.6!scalameter-core_2.11.jar(src) (445ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.storm-enroute#scalameter-core_2.11;0.6!scalameter-core_2.11.jar(doc) (719ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.apache.commons/commons-math3/3.2/srcs/commons-math3-sources.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.apache.commons#commons-math3;3.2!commons-math3.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.apache.commons/commons-math3/3.2/docs/commons-math3-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-math3;3.2!commons-math3.jar(src) (812ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-math3;3.2!commons-math3.jar(doc) (1564ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.1/srcs/scala-xml_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.1/docs/scala-xml_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.1/jars/scala-xml_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(src) (448ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar(doc) (588ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.1/scala-xml_2.11-1.0.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.1!scala-xml_2.11.jar (561ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/jars/scala-parser-combinators_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/docs/scala-parser-combinators_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/srcs/scala-parser-combinators_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar (925ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar(doc) (790ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.1!scala-parser-combinators_2.11.jar(src) (434ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/com.github.scala-blitz/scala-blitz_2.11/1.1/srcs/scala-blitz_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/com.github.scala-blitz/scala-blitz_2.11/1.1/docs/scala-blitz_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.github.scala-blitz#scala-blitz_2.11;1.1!scala-blitz_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.scala-blitz#scala-blitz_2.11;1.1!scala-blitz_2.11.jar(src) (500ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/scala-blitz/scala-blitz_2.11/1.1/scala-blitz_2.11-1.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.scala-blitz#scala-blitz_2.11;1.1!scala-blitz_2.11.jar(doc) (702ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.1!scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-reflect/2.11.1/srcs/scala-reflect-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-reflect/2.11.1/docs/scala-reflect-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.1!scala-reflect.jar(src) (531ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.1!scala-reflect.jar(doc) (1047ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/srcs/scala-xml_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/jars/scala-xml_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.2/docs/scala-xml_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(src) (479ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar (550ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.2!scala-xml_2.11.jar(doc) (641ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-reflect/2.11.2/docs/scala-reflect-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-reflect/2.11.2/srcs/scala-reflect-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar(doc) (1265ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.2/scala-reflect-2.11.2-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.2!scala-reflect.jar(src) (614ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/srcs/scalatest_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/docs/scalatest_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/jars/scalatest_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(src) (836ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar(doc) (2156ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scalatest#scalatest_2.11;2.2.4!scalatest_2.11.jar (2864ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/junit/junit/4.10/srcs/junit-sources.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] junit#junit;4.10!junit.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/junit/junit/4.10/docs/junit-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] junit#junit;4.10!junit.jar(src) (484ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] junit#junit;4.10!junit.jar(doc) (488ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.hamcrest/hamcrest-core/1.1/docs/hamcrest-core-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.hamcrest/hamcrest-core/1.1/srcs/hamcrest-core-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(src) (440ms)[0m
+[0m[[33mwarn[0m] [0m	[FAILED     ] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(doc):  (0ms)[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/laurianemollier/.ivy2/local/org.hamcrest/hamcrest-core/1.1/docs/hamcrest-core-javadoc.jar[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/com.storm-enroute/scalameter_2.11/0.6/srcs/scalameter_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.storm-enroute#scalameter_2.11;0.6!scalameter_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/com.storm-enroute/scalameter_2.11/0.6/docs/scalameter_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.storm-enroute#scalameter_2.11;0.6!scalameter_2.11.jar(src) (471ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/storm-enroute/scalameter_2.11/0.6/scalameter_2.11-0.6-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.storm-enroute#scalameter_2.11;0.6!scalameter_2.11.jar(doc) (575ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/com.github.wookietreiber/scala-chart_2.11/0.4.2/docs/scala-chart_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.github.wookietreiber#scala-chart_2.11;0.4.2!scala-chart_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/com.github.wookietreiber/scala-chart_2.11/0.4.2/srcs/scala-chart_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.wookietreiber#scala-chart_2.11;0.4.2!scala-chart_2.11.jar(doc) (729ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/wookietreiber/scala-chart_2.11/0.4.2/scala-chart_2.11-0.4.2-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.wookietreiber#scala-chart_2.11;0.4.2!scala-chart_2.11.jar(src) (458ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.jfree/jfreechart/1.0.17/srcs/jfreechart-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.jfree/jfreechart/1.0.17/docs/jfreechart-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.jfree#jfreechart;1.0.17!jfreechart.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.jfree#jfreechart;1.0.17!jfreechart.jar(src) (904ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/jfree/jfreechart/1.0.17/jfreechart-1.0.17-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.jfree#jfreechart;1.0.17!jfreechart.jar(doc) (1225ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.jfree/jcommon/1.0.21/docs/jcommon-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.jfree/jcommon/1.0.21/srcs/jcommon-sources.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.jfree#jcommon;1.0.21!jcommon.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.jfree#jcommon;1.0.21!jcommon.jar(doc) (671ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/jfree/jcommon/1.0.21/jcommon-1.0.21-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.jfree#jcommon;1.0.21!jcommon.jar(src) (592ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] xml-apis#xml-apis;1.3.04!xml-apis.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/xml-apis/xml-apis/1.3.04/docs/xml-apis-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/xml-apis/xml-apis/1.3.04/srcs/xml-apis-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-javadoc.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] xml-apis#xml-apis;1.3.04!xml-apis.jar(src) (497ms)[0m
+[0m[[33mwarn[0m] [0m	[FAILED     ] xml-apis#xml-apis;1.3.04!xml-apis.jar(doc):  (0ms)[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/laurianemollier/.ivy2/local/xml-apis/xml-apis/1.3.04/docs/xml-apis-javadoc.jar[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.04/xml-apis-1.3.04-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-swing_2.11/1.0.1/srcs/scala-swing_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-swing_2.11/1.0.1/docs/scala-swing_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-swing_2.11/1.0.1/jars/scala-swing_2.11.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar(src) (500ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar(doc) (645ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.11;1.0.1!scala-swing_2.11.jar (520ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-tools.testing/test-interface/0.5/srcs/test-interface-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-tools.testing/test-interface/0.5/docs/test-interface-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-tools.testing#test-interface;0.5!test-interface.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-sources.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-javadoc.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-javadoc.jar[0m
+[0m[[33mwarn[0m] [0m	[FAILED     ] org.scala-tools.testing#test-interface;0.5!test-interface.jar(src):  (0ms)[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/laurianemollier/.ivy2/local/org.scala-tools.testing/test-interface/0.5/srcs/test-interface-sources.jar[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-sources.jar[0m
+[0m[[33mwarn[0m] [0m	[FAILED     ] org.scala-tools.testing#test-interface;0.5!test-interface.jar(doc):  (0ms)[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/laurianemollier/.ivy2/local/org.scala-tools.testing/test-interface/0.5/docs/test-interface-javadoc.jar[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-compiler/2.11.5/srcs/scala-compiler-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-compiler/2.11.5/docs/scala-compiler-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar(src) (801ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.5/scala-compiler-2.11.5-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.11.5!scala-compiler.jar(doc) (2318ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-reflect/2.11.5/srcs/scala-reflect-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang/scala-reflect/2.11.5/docs/scala-reflect-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar(src) (1052ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.5/scala-reflect-2.11.5-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.11.5!scala-reflect.jar(doc) (1274ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.3/docs/scala-xml_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-xml_2.11/1.0.3/srcs/scala-xml_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(doc) (674ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.3/scala-xml_2.11-1.0.3-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(src) (435ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/docs/scala-parser-combinators_2.11-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/srcs/scala-parser-combinators_2.11-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(doc) (541ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.3/scala-parser-combinators_2.11-1.0.3-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src) (444ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/jline/jline/2.12/docs/jline-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /Users/laurianemollier/.ivy2/local/jline/jline/2.12/srcs/jline-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] jline#jline;2.12!jline.jar(doc) (499ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-sources.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/jline/jline/2.12/jline-2.12-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] jline#jline;2.12!jline.jar(src) (437ms)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 374ms :: artifacts dl 43231ms[0m
+[0m[[33mwarn[0m] [0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
+[0m[[33mwarn[0m] [0m	::              FAILED DOWNLOADS            ::[0m
+[0m[[33mwarn[0m] [0m	:: ^ see resolution messages for details  ^ ::[0m
+[0m[[33mwarn[0m] [0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
+[0m[[33mwarn[0m] [0m	:: org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(doc)[0m
+[0m[[33mwarn[0m] [0m	:: xml-apis#xml-apis;1.3.04!xml-apis.jar(doc)[0m
+[0m[[33mwarn[0m] [0m	:: org.scala-tools.testing#test-interface;0.5!test-interface.jar(src)[0m
+[0m[[33mwarn[0m] [0m	:: org.scala-tools.testing#test-interface;0.5!test-interface.jar(doc)[0m
+[0m[[33mwarn[0m] [0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT compile produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT runtime produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT test produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT provided produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT optional produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT compile-internal produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT runtime-internal produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT test-internal produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT plugin produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT sources produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT docs produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT pom produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalashop#scalashop$sources_javadoc_2.11;0.1-SNAPSHOT scala-tool produced in /Users/laurianemollier/Documents/Reactive and Parallelism Prog/scalashop/target/resolution-cache/reports/scalashop-scalashop$sources_javadoc_2.11-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (374ms resolve - 43231ms download)[0m

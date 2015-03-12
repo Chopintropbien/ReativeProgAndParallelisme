@@ -1,0 +1,14 @@
+package scalashop
+
+object teste {
+  val r1 = 0 until 11                             //> r1  : scala.collection.immutable.Range = Range(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 
+                                                  //| 10)
+  val r2 = r1.start until r1.end by r1.step + 1   //> r2  : scala.collection.immutable.Range = Range(0, 2, 4, 6, 8, 10)
+  println(r2.length)                              //> 6
+  
+  
+  
+  
+  1.0 / (99.99 / 30 + 0.01)                       //> res0: Double = 0.2991325157044571
+  
+}
