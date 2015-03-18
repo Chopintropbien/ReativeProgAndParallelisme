@@ -4,6 +4,9 @@ import scala.collection._
 import scala.util.Random
 import org.scalameter._
 import common._
+import scala.Null
+import org.apache.commons.math3.analysis.function.Sqrt
+import scala.annotation.tailrec
 
 class KMeans {
 
@@ -61,9 +64,11 @@ class KMeans {
     closest
   }
 
-  def classify(points: GenSeq[Point], means: GenSeq[Point]): GenMap[Point, GenSeq[Point]] = {
-    ???
-  }
+  // pourquoi pas  NUll
+  // pourquoi quand on met toMap apres ca ne marche pas?
+  def classify(points: GenSeq[Point], means: GenSeq[Point]): GenMap[Point, GenSeq[Point]] = 
+    means.map{(_, GenSeq())}.toMap ++ points.groupBy{findClosest(_, means)}
+
 
   def findAverage(oldMean: Point, points: GenSeq[Point]): Point = if (points.length == 0) oldMean else {
     var x = 0.0
@@ -79,16 +84,21 @@ class KMeans {
     new Point(x / points.length, y / points.length, z / points.length)
   }
 
-  def update(classified: GenMap[Point, GenSeq[Point]], oldMeans: GenSeq[Point]): GenSeq[Point] = {
-    ???
-  }
+    // pourquoi pas ca??? 
+  def update(classified: GenMap[Point, GenSeq[Point]], oldMeans: GenSeq[Point]): GenSeq[Point] = 
+    oldMeans.map( m => findAverage(m, classified(m)))
+    //classified.map{case (oldMean, genSeqPoint) => findAverage(oldMean, classified(oldMean))}
 
-  def converged(eta: Double)(oldMeans: GenSeq[Point], newMeans: GenSeq[Point]): Boolean = {
-    ???
-  }
 
+  def converged(eta: Double)(oldMeans: GenSeq[Point], newMeans: GenSeq[Point]): Boolean = 
+    oldMeans.zip(newMeans).forall{case (o, n) => o.squareDistance(n) <= eta}
+
+  @tailrec
   final def kMeans(points: GenSeq[Point], means: GenSeq[Point], eta: Double): GenSeq[Point] = {
-    ???
+    val classified = classify(points, means)
+    val newMeans = update(classified, means)
+    if(converged(eta)(means, newMeans)) means
+    else kMeans(points, newMeans, eta)
   }
 }
 
