@@ -64,8 +64,7 @@ class KMeans {
     closest
   }
 
-  // pourquoi pas  NUll
-  // pourquoi quand on met toMap apres ca ne marche pas?
+  // ++ pas commutative
   def classify(points: GenSeq[Point], means: GenSeq[Point]): GenMap[Point, GenSeq[Point]] = 
     means.map{(_, GenSeq())}.toMap ++ points.groupBy{findClosest(_, means)}
 

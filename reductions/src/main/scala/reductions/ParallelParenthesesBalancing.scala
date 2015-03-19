@@ -47,6 +47,7 @@ object ParallelParenthesesBalancing {
     seqBalanceAcc(from, 0, 0)
   }
   
+  // truc que je comprend pas, c'est pourquoi quand la femme trompe son mari, pourquoi le mari veut tabasser l'amant
   
   
   /** Returns `true` iff the parentheses in the input `chars` are balanced.
@@ -58,7 +59,6 @@ object ParallelParenthesesBalancing {
       if(c > 0) (c + b._1, a._2)
       else (b._1, a._2 + Math.abs(c))
     }
-    
     def traverse(from: Int, until: Int): (Int, Int) = {
       if(until - from < threshold) seqBalance(chars, from, until)
       else {
@@ -67,7 +67,6 @@ object ParallelParenthesesBalancing {
         combine(a, b)
       }
     }
-    
     traverse(0, chars.length) == (0,0)
   }
 
